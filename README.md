@@ -1,4 +1,3 @@
-# html-and-css-template-one
-Html And Css Desine Number One
+### html-and-css-template-one
 ### Demo
-https://mahroustamim.github.io/html-and-css-template-one/
+https://mahroustamim.github.io/template-one/
